@@ -1,0 +1,37 @@
+okex
+
+apiKey29b41f88-8e49-4728-bdda-914a27e54ca6
+备注名wbr
+为了您的资产安全，建议您绑定IP
+绑定IP地址(非必填)0
+权限只读提币交易
+secretKeyD8EDB47E89B16347409C85831E9A792F
+
+
+
+
+okex
+V1
+
+
+apiKey9c02dad0-7ab3-421f-9bea-7e8959c356bd
+备注名wbr
+权限提币交易
+secretKey32C80E2D1C4B6C833656284BB2DD7B1F
+
+
+
+binance
+
+API Key:
+h42uowtcWNF7pBOWb9WURnGgt4BwSlncZZnYBb9s8KCSGrwc4XoFkguhD4E8pXdV
+Secret Key:  
+5LMRsLNbo8Eev3gsK3UuNYerNPuYRfHBQRsl5ZOMpwGQX2YG5d6S5jJmWYYjGbB7
+
+
+
+远程连接密码： 371660
+
+
+metamask助记词
+ceiling master barely thunder heart ripple journey that alone assist immune awkward
